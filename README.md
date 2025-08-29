@@ -1,4 +1,4 @@
-![logo](https://github.com/Prabhat993/Prabhat993/blob/main/banner.png))
+![logo](https://github.com/Prabhat993/Prabhat993/blob/main/Github%20Banner.png))
 <h1 align="center">Hi 👋, I'm Prabhat Kumar Pal</h1>
 <h3 align="center">A passionate full stack and java developer</h3>
 
